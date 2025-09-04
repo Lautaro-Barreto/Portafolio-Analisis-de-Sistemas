@@ -1,4 +1,4 @@
-\# Portafolio de Análisis de Sistemas
+\#Portafolio de Análisis de Sistemas
 
 
 
@@ -8,5 +8,5 @@ Dejo adjunta una guía con consejos y consideraciones que pueden servirte de ayu
 
 
 
-\## Eso es todo, saludos.
+\##Eso es todo, saludos.
 
