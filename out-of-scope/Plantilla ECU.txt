@@ -1,0 +1,34 @@
+🞂 Nombre del CU:  
+
+🞂 Tipo de caso de uso: Base  
+
+🞂 Objetivo/Descripción del CU:  
+
+🞂 Actor Principal:  
+
+🞂 Actor Secundario: 
+
+🞂 Autor:  
+
+🞂 Fecha creación:  
+
+🞂 Precondiciones:  
+
+🞂 Punto de extensión:   
+
+🞂 Flujo Normal: 
+
+🞂 Flujos Alternativos: 
+
+* En Cualquier momento antes del paso X, el actor puede cancelar el caso de uso. 
+
+A0. Cancelar: 
+
+*).1. El cliente oprime “Cancelar”. 
+
+*).2. El sistema finaliza el caso de uso.	 
+
+🞂 Postcondiciones:  
+
+🞂 Interfaz Tentativa del caso de uso (Graphic User Interface) 
+
